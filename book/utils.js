@@ -1,6 +1,6 @@
 // prefix = "/github-repo"
 if (typeof prefix == "undefined") {
-    prefix = "/mdbook-pdf"
+    prefix = ""
 }
 
 function url(relative) {
