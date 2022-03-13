@@ -1,3 +1,4 @@
 # Introduction
 
-intro de moi
+intro de moi concernat mdbook.
+Pour l'instant pas de pdf.
