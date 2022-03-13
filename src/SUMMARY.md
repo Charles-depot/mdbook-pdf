@@ -4,11 +4,10 @@
 
 # Chapitre 1  Programmation Python
 
-- [Introduction](Intro.md)
-  - [Introduction cours](IntroductionPython_cours_pdf.md)
-  - [Introduction exercices](IntroductionPython_cours_exercices_pdf.md)
-  - [ConditionsSiBoucles](ConditionSiBoucles_cours_pdf.md)
-  - [ConditionsSiBoucles](ConditionSiBoucles_cours_exercices_pdf.md)
+- [Introduction cours](IntroductionPython_cours_pdf.md)
+- [Introduction exercices](IntroductionPython_cours_exercices_pdf.md)
+- [ConditionsSiBoucles](ConditionSiBoucles_cours_pdf.md)
+- [ConditionsSiBoucles](ConditionSiBoucles_cours_exercices_pdf.md)
 
 
 # Chapitre 2
