@@ -9,13 +9,17 @@
 - [ConditionsSiBoucles](ConditionSiBoucles_cours_pdf.md)
 - [ConditionsSiBoucles](ConditionSiBoucles_cours_exercices_pdf.md)
 
+# Chapitre 2  Programmation Python
 
-# Chapitre 2
+- [ListesTuplescours](ListesTuplescours.md)
+- [ListesTuplesExercices](ListesTuplesExercices.md)
+
+# Chapitre 3
 
 - [Example of an md file](ex_md.md)
 - [Example of a pdf file marche po](ex_pdf.md)
 
-# Chapitre 3
+# Chapitre 4
 
 - [Example of a moi pdf file](ex_pdf_moi.md)
 
