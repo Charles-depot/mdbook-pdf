@@ -5,7 +5,7 @@
 # Chapitre 1  Programmation Python
 
 - [Introduction cours](IntroductionPython_cours_pdf.md)
-- [Introduction exercices](IntroductionPython_cours_exercices_pdf.md)
+- [Introduction exercices](IntroductionPython_cours_exercices.md)
 - [ConditionsSiBoucles](ConditionSiBoucles_cours_pdf.md)
 - [ConditionsSiBoucles](ConditionSiBoucles_cours_exercices_pdf.md)
 
