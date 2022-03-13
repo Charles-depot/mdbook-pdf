@@ -25,6 +25,11 @@ Just change `url("paper.pdf")` to load another pdf file.
 
 The table of contents can be modified inside src/SUMMARY.md.
 
+## Publish to GitHub Pages
+
+To publish on GitHub Pages, go to Settings -> Pages, select "Branch: gh-pages" and "Save".
+The next commit will publish your site (via .github/workflows/mdbook.yml)
+
 ## Complete example
 
 Complete example for a course: https://fortierq.github.io/oc-m1-2021
