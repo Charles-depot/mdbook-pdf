@@ -21,5 +21,7 @@
 
 # Chapitre 4
 
+- [Introduction cours](IntroductionPython_cours_pdf.md)
+- [Introduction exercices](IntroductionPython_cours_exercices.md)
 - [Example of a moi pdf file](ex_pdf_moi.md)
 
