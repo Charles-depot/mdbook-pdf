@@ -2,7 +2,7 @@
 
 You can use Markdown here and here nd here
 
-![lumni](lumni.png)
+![lumni](num1.png)
 
 # Auteur : Cyril D., elève de seconde
 """
