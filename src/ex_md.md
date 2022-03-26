@@ -11,6 +11,7 @@ https://twitter.com/nsi_xyz/status/1380526932543090690
 Réutilisé pour le travail "Le Python et la Tortue" en spécialité NSI
 """
 
+```python
 import turtle
 liste = ["red", "orange", "yellow", "green", "black"]
 for i in range(125) :
@@ -18,7 +19,9 @@ for i in range(125) :
   turtle.pensize(10+2)
   turtle.forward(i)
   turtle.left(59)
+```
+
 
   ```python
-print("toto")
+print("42")
 ```
