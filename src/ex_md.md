@@ -2,7 +2,7 @@
 
 You can use Markdown here and here nd here
 
-![lumni](num1.png)
+![lumni](num1.PNG)
 
 # Auteur : Cyril D., elève de seconde
 """
@@ -18,3 +18,7 @@ for i in range(125) :
   turtle.pensize(10+2)
   turtle.forward(i)
   turtle.left(59)
+
+  ```python
+print("toto")
+```
