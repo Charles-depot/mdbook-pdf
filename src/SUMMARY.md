@@ -25,3 +25,7 @@
 - [Introduction exercices](IntroductionPython_cours_exercices.md)
 - [Example of a moi pdf file](ex_pdf_moi.md)
 
+# Chapitre 5
+
+- [Recursivité cours](Recursivite_cours.md)
+- [Recursivité exercices](Recursivite_cours_exercices.md)
