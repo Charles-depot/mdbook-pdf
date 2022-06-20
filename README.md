@@ -32,4 +32,6 @@ The next commit will publish your site (via .github/workflows/mdbook.yml)
 
 ## Complete example
 
+https://charles-depot.github.io/mdbook-pdf/introduction.html
+
 Complete example for a course: https://fortierq.github.io/oc-m1-2021
