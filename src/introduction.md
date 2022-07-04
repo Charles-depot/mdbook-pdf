@@ -21,4 +21,6 @@ programmes en enchaînant un grand nombre d’instructions simples, assurant la
 persistance des données par leur stockage, et de gérer les communications. On y
 inclut les objets connectés et les réseaux.
 
+yo 
+
 ![lumni](lumni.png)
