@@ -31,5 +31,5 @@
 - [Recursivité exercices](Recursivite_cours_exercices.md)
 
 # Chapitre 6
-- [Variables et types](variables_types.md)
+- [Variables et types](variables_types_exercices.md)
 - [Variables et types exercices](variables_types_exercices.md)
