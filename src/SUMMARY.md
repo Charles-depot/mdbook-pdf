@@ -32,4 +32,4 @@
 
 # Chapitre 6
 - [Variables et types](variables_types_exercices.md)
-- [Variables et types exercices](variables_types_exercices.md)
+- [Variables et types exercices](variables_types.md)
