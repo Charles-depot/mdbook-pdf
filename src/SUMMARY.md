@@ -4,8 +4,11 @@
 
 # Chapitre 1  Programmation Python
 
-- [Introduction cours](IntroductionPython_cours_pdf.md)
-- [Introduction exercices](IntroductionPython_cours_exercices.md)
+- [Prise en main Python](IntroductionPython_cours_pdf.md)
+- [Variables et types](variables_types.md)
+- [Variables et types exercices](variables_types_exercices.md)
+- [Fonctions](Fonctions.md)
+- [Fonctions exercices](Fonctions_exercices.md)
 - [ConditionsSiBoucles](ConditionSiBoucles_cours_pdf.md)
 - [ConditionsSiBoucles](ConditionSiBoucles_cours_exercices_pdf.md)
 
