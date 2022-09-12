@@ -6,4 +6,4 @@
     window.onload = () => document.getElementById("pdf-js-viewer").src = url("PriseEnMainPython.pdf") + "#zoom=page-width&pagemode=none";
 </script>
 
-[Prise en main 1/2](NSI Chapitre 1 Prise en main Notebook Jupyter 1-2.ipynb)
+[Prise en main 1/2](https://github.com/Charles-depot/mdbook-pdf/blob/main/src/NSI%20Chapitre%201%20Prise%20en%20main%20Notebook%20Jupyter%201-2.ipynb)
