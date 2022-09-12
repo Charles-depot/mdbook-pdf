@@ -6,4 +6,3 @@
     window.onload = () => document.getElementById("pdf-js-viewer").src = url("Fonctions.pdf") + "#zoom=page-width&pagemode=none";
 </script>
 
-![lumni](num1.PNG)
