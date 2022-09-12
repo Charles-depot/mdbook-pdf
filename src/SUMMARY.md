@@ -9,8 +9,6 @@
 - [Variables et types exercices](variables_types_exercices.md)
 - [Fonctions](Fonctions.md)
 - [Fonctions exercices](Fonctions_exercices.md)
-- [ConditionsSiBoucles](ConditionSiBoucles_cours_pdf.md)
-- [ConditionsSiBoucles](ConditionSiBoucles_cours_exercices_pdf.md)
 
 # Chapitre 2  Programmation Python
 
