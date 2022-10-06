@@ -28,3 +28,18 @@ yo man
 [NSI Première Partie 1 Chapitre 1 Prise en main Notebook Jupyter 1-2.ipynb](https://nuage03.apps.education.fr/index.php/s/SPezAAJ39X3MtqH)
 
 [NSI Première Partie 1 Chapitre 1 Prise en main Notebook Jupyter 1-2 corrigé.ipynb](https://nuage03.apps.education.fr/index.php/s/Cn6H2odEH3DmasR)
+
+[NSI Première Partie 1 Chapitre 1 Prise en main Notebook Jupyter 1-2.ipynb (https://nuage03.apps.education.fr/index.php/s/GJrktB3coA3J5XW)
+
+[NSI Première Partie 1 Chapitre 1 Prise en main Notebook Jupyter 1-2 corrigé.ipynb]
+(https://nuage03.apps.education.fr/index.php/s/xECTMF3nLjYfKNx)
+
+
+<a href="http://tecfa.unige.ch/tecfa.html">Home Page interne TECFA</a>
+
+<a href="https://support.pix.org/fr/support/home" target="_blank"><img src="bouton.png" /></a>
+
+![bouton](bouton.png)
+
+<a href="https://nuage03.apps.education.fr/index.php/s/GJrktB3coA3J5XW" target="_blank"><img src="bouton.png" /></a>
+
