@@ -8,10 +8,13 @@
 - [Fonctions](Fonctions.md)
 - [Conditions Embranchements](ConditionsEmbranchements.md)
 
-# Chapitre 2  Programmation Python
-- [ListesTuplescours](ListesTuplescours.md)
-- [ListesTuplesExercices](ListesTuplesExercices.md)
+# Chapitre 2  Représentation des données
+- [Booléens cours](Booleens_cours.md)
+- [Booléens exercices](Booleens_cours_exercices.md)
 
-# Chapitre 5
-- [Recursivité cours](Recursivite_cours.md)
-- [Recursivité exercices](Recursivite_cours_exercices.md)
+# Chapitre 3 Architecture des ordinateurs
+- [Histoire et Composants](HistoireComposants.md)
+
+# Chapitre 4 Algorithmique avancée
+- [Introduction cours](IntroAlgo_cours.md)
+- [Introduction exercices](IntroAlgo_cours_exercices.md)
