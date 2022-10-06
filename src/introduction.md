@@ -25,4 +25,4 @@ yo man
 
 ![lumni](lumni.png)
 
-![test notebook](src/NSI Première Partie 1 Chapitre 1 Prise en main Notebook Jupyter 1-2.ipynb)
+[test notebook](src/NSI Première Partie 1 Chapitre 1 Prise en main Notebook Jupyter 1-2.ipynb)
