@@ -25,9 +25,6 @@ yo man
 
 ![lumni](lumni.png)
 
-
-[test notebook](https://github.dev/Charles-depot/mdbook-pdf/blob/main/src/Partie_1_Chapitre_1%20_Prise_1_2.ipynb)
-
 [NSI Première Partie 1 Chapitre 1 Prise en main Notebook Jupyter 1-2.ipynb](https://nuage03.apps.education.fr/index.php/s/SPezAAJ39X3MtqH)
 
 [NSI Première Partie 1 Chapitre 1 Prise en main Notebook Jupyter 1-2 corrigé.ipynb](https://nuage03.apps.education.fr/index.php/s/Cn6H2odEH3DmasR)
