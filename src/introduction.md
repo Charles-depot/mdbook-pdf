@@ -29,3 +29,15 @@ yo man
 
 
 [test notebook](NSI Première Partie 1 Chapitre 1 Prise en main Notebook Jupyter 1-2.ipynb)
+
+[test notebook](Charles-depot/mdbook-pdf/src/Partie_1_Chapitre_1 _Prise_1_2.ipynb)
+
+Charles-depot/mdbook-pdf/src/Partie_1_Chapitre_1 _Prise_1_2.ipynb
+
+[test notebook](src/Partie_1_Chapitre_1 _Prise_1_2.ipynb)
+
+src/Partie_1_Chapitre_1 _Prise_1_2.ipynb
+
+[test notebook](https://github.dev/Charles-depot/mdbook-pdf/blob/main/src/Partie_1_Chapitre_1%20_Prise_1_2.ipynb)
+
+https://github.dev/Charles-depot/mdbook-pdf/blob/main/src/Partie_1_Chapitre_1%20_Prise_1_2.ipynb
