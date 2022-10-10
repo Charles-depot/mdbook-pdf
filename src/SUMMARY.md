@@ -13,7 +13,9 @@
 - [Booléens exercices](Booleens_cours_exercices.md)
 
 # Chapitre 3 Architecture des ordinateurs
-- [Histoire et Composants](HistoireComposants.md)
+- [Scénario](scenario_archi.md)
+- [Histoire et Composants 1](HistoireComposants.md)
+- [Histoire et Composants 2](HistoireComposants_2.md)
 
 # Chapitre 4 Algorithmique avancée
 - [Introduction cours](IntroAlgo_cours.md)
